@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PokemonVKTest</string>
+    <string name="main_page">Pokemons</string>
+    <string name="title_stats">Stats:</string>
+</resources>
